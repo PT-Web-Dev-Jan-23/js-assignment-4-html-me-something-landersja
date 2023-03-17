@@ -1,1 +1,7 @@
-/* Write your CSS here! */
+#mainHeading{
+    color: red;
+}
+
+body{
+    margin: 8px;
+}
