@@ -2,7 +2,11 @@
     color: red;
 }
 
-body{
+body {
     display: block;
     margin: 8px;
+}
+
+.funParagraph {
+    color: green;
 }
